@@ -17,7 +17,7 @@ int main(){
         //ejemplo de entrada
         char comando[10];
         scanf("%s", comando);
-        printf("\n%s\n", comando);
+        printf("%s\n", comando);
     }
 
 
